@@ -4,7 +4,7 @@
 
 * Udacity Data Analyst Project 2: Gun Data Analysis 
 * Version 1.0
-* [Learn more about the course](https://fasfdsa)
+* [Learn more about the course](https://www.udacity.com/)
 
 ### How do I get set up? ###
 
@@ -30,6 +30,8 @@ python analyze.py
 ```
 
 * Other guidelines
+
+After you run the above command, you should have 2 figures which will be used for the report references.
 
 ### Who do I talk to? ###
 
