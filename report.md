@@ -17,7 +17,7 @@ Below figure shows that California, Illinois, Kentucky, Pennsylvania, and Texas 
 From Figure 1, Kentucky seems to be top state that has highest gun check/registrations.
 Below figure shows that permit checks takes the highest portion of gun checks followed by handgun registrations in Kentucky.
 
-![Figure 2](fig2.png "Figure 1")
+![Figure 2](fig2.png "Figure 2")
 
 ### Data wrangling done ###
 * Since data has lots of null values, we have to fill in these cells. O-filling makes sense here because we dont want to make false sum of checks/registrations
