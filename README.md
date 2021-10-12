@@ -20,7 +20,8 @@ Run this command to install required packages
 ```
 
 Download [gun-data](https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a4db8_gun-data/gun-data.xlsx) from FBI's National Instant Criminal Background Check System (NICS).
-Put your csv file directly under the project root folder.
+and [census-data](https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a554c_u.s.-census-data/u.s.-census-data.csv)
+Put your csv files directly under the project root folder.
 
 ### How to run this project ###
 
