@@ -31,7 +31,9 @@ Overall, permit checks take largest volume in Kentucky since 2005
 
 * How is gun permits vs population in the top 5 States in 2016?
 
-We need census data and transpose it following tips from https://knowledge.udacity.com/questions/713929 
+We need census data and transpose it following tips from https://knowledge.udacity.com/questions/713929
+
+Join 2 dataset (https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html)
 
 ![Figure 3](fig3.png "Figure 3")
 
