@@ -33,6 +33,12 @@ Overall, permit checks take largest volume in Kentucky since 2005
 
 We need census data and transpose it following tips from https://knowledge.udacity.com/questions/713929
 
+Distribution of population in 2016
+
+![Figure 3.1](fig3_1.png "Figure 3.1")
+
+Most of states have population under 7.5 million
+
 Join 2 dataset (https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html)
 
 ![Figure 3](fig3.png "Figure 3")
